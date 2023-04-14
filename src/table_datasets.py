@@ -33,6 +33,10 @@ def read_pascal_voc(xml_file: str, class_map=None):
         
         label = object_.find("name").text
         try:
+            if label not in ["Table"]:
+                continue
+            else:
+                label = "table"
             label = int(label)
         except:
             label = int(class_map[label])
