@@ -1,8 +1,8 @@
-# Table Transformer (TATR)
-
 # Issues in Original Github Repository
 - Code written for only .jpg files 
 - code not written for Text, Figure and other labels
+
+# Table Transformer (TATR)
 
 A deep learning model based on object detection for extracting tables from PDFs and images.
 
