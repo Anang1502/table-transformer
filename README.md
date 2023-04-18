@@ -1,6 +1,6 @@
 # Issues in Original Github Repository
 - Code written for only .jpg files 
-- code not written for Text, Figure and other labels
+- code not written for Text, Figure and other labels and causes errors when other labels are present in the PASCAL VOC XML files.
 
 # Table Transformer (TATR)
 
