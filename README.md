@@ -1,5 +1,9 @@
 # Table Transformer (TATR)
 
+# Issues in Original Github Repository
+- Code written for only .jpg files 
+- code not written for Text, Figure and other labels
+
 A deep learning model based on object detection for extracting tables from PDFs and images.
 
 First proposed in ["PubTables-1M: Towards comprehensive table extraction from unstructured documents"](https://openaccess.thecvf.com/content/CVPR2022/html/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.html).
